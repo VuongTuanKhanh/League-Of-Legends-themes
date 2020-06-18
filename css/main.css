@@ -16,6 +16,10 @@ a:hover {
     text-decoration: none;
 }
 
+.logo {
+    max-width: 150px;
+}
+
 a:focus {
     outline: none;
     outline-offset: 0;

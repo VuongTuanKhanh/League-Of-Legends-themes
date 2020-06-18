@@ -2732,3 +2732,164 @@
             transition-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
             padding-left: 140px;
         }
+        
+        .bbzbel {
+            background-color: rgb(6, 28, 37);
+            color: rgb(209, 218, 222);
+        }
+        
+        section {
+            display: block;
+        }
+        
+        .bbzbel .style__SectionInner-sc-1lcv94c-1 {
+            flex-direction: column;
+            padding: 20px;
+        }
+        
+        .gywGJt {
+            display: flex;
+            -webkit-box-align: center;
+            align-items: center;
+        }
+        
+        .kfCVrH {
+            font-size: 16px;
+            font-weight: bold;
+            letter-spacing: 0.08em;
+            font-family: "Beaufort for LOL", serif;
+            margin: 0px;
+        }
+        
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        p {
+            margin-bottom: 0px;
+        }
+        
+        h1 {
+            font-size: 2em;
+            margin: 0.67em 0px;
+        }
+        
+         :-webkit-any(article,
+        aside,
+        nav,
+        section) h1 {
+            font-size: 1.5em;
+            margin-block-start: 0.83em;
+            margin-block-end: 0.83em;
+        }
+        
+        h1 {
+            display: block;
+            font-size: 2em;
+            margin-block-start: 0.67em;
+            margin-block-end: 0.67em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+            font-weight: bold;
+        }
+        
+        .bbzbel .style__Description-sc-1lcv94c-3 {
+            margin-top: 1em;
+        }
+        
+        .gXWTTo {
+            text-align: center;
+            font-size: 12px;
+            letter-spacing: 0.08em;
+            flex: 1 1 auto;
+        }
+        
+        .bbzbel .style__Links-sc-1lcv94c-4 {
+            text-align: center;
+        }
+        
+        .bbzbel .style__MobileStoreButton-sc-1lcv94c-5 {
+            margin-top: 1em;
+        }
+        
+        a[href],
+        input[type="submit"],
+        input[type="image"],
+        label[for],
+        select,
+        button {
+            cursor: pointer;
+        }
+        
+        .hqVMrt {
+            position: relative;
+            display: inline-block;
+            box-sizing: border-box;
+            vertical-align: middle;
+            width: 110px;
+            margin: 0px 5px;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        
+        a {
+            background-color: transparent;
+        }
+        
+        a:-webkit-any-link {
+            color: -webkit-link;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+        
+        .kMJeVm {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+        }
+        
+        .kMJeVm1 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+        }
+        
+        .bbzbel .style__MobileStoreButton-sc-1lcv94c-5 {
+            margin-top: 1em;
+        }
+        
+        a[href],
+        input[type="submit"],
+        input[type="image"],
+        label[for],
+        select,
+        button {
+            cursor: pointer;
+        }
+        
+        .kbgece {
+            position: relative;
+            display: inline-block;
+            box-sizing: border-box;
+            vertical-align: middle;
+            width: 124px;
+            margin: 0px 5px;
+        }
+        
+        a:-webkit-any-link {
+            color: -webkit-link;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+        
+        .kbgece .style__Badge-sc-1lcv94c-6 {
+            width: 114%;
+            height: 150%;
+            transform: translate(-6%, -16%);
+        }
